@@ -1,0 +1,14 @@
+limitations of hibernate
+
+.Multiple records cannot be retrieved
+.Multiple Delete and update can't be possible 
+. Very difficult to perform complex crud operations
+to overcome the above limitations
+.HQL
+.Criteria API
+.Native SQL
+HQL : .It is used to query database
+      .HQL is similar to sql , Instead of working woth with tables and column,hql only deals with class and properties 
+Criteria API : It is one of the way to query the database 
+             .It is used for DML operation
+              .b
