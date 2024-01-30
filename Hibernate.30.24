@@ -9,6 +9,9 @@ to overcome the above limitations
 .Native SQL
 HQL : .It is used to query database
       .HQL is similar to sql , Instead of working woth with tables and column,hql only deals with class and properties 
+       .Hql is object oriented
+       .Hql understand inheritance, Polymorphism, Association
+       .Hql queries are case sensitive 
 Criteria API : It is one of the way to query the database 
              .It is used for DML operation
-              .b
+
